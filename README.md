@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Felipe Araújo.
+- 👀 I’m interested in back-end.
+- 🌱 I’m currently perfecting my skills in Node.js and Go.
