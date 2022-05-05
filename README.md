@@ -6,4 +6,4 @@
 
 ### You can find me on:
 
-- 👤 [Linkedin](https://www.linkedin.com/in/felipe-l-araujo/) <br>
+<a href="https://www.linkedin.com/in/felipe-l-araujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
