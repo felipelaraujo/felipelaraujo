@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Felipe!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"> Hello, I'm Felipe!
 
 - 🏡 Brazilian, Based in Rio de Janeiro, RJ <br>
 - 💻 Software Engineer at Labsit <br>
