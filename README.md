@@ -2,7 +2,7 @@
 
 - 🏡 Brazilian, Based in Rio de Janeiro, RJ <br>
 - 💻 Software Engineer at Labsit <br>
-- 🌱 I’m currently perfecting my skills in Node.js and Go
+- 🌱 I’m currently perfecting my skills in Node.js
 
 ### You can find me on:
 
